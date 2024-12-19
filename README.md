@@ -1,0 +1,2 @@
+# GO_protobuf_example
+go使用protobuf的项目示例
